@@ -1,2 +1,6 @@
 print ("test");
+<<<<<<< HEAD
+print ("test");
+=======
+>>>>>>> master
 print ("test");
